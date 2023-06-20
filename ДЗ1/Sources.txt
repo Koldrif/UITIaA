@@ -1,0 +1,2 @@
+https://openweathermap.org/api/geocoding-api    -   Получить корды города
+https://openweathermap.org/current              -   Получить погоду по коордам из запоса выше
